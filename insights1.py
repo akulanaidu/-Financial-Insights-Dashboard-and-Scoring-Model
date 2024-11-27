@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Streamlit App
-st.title("Family Financial Insights and Scoring")
+st.title("Family Financial Insights and Scoring") 
 
 # Sidebar for file upload
 st.sidebar.subheader("Upload Excel File")
